@@ -1,0 +1,99 @@
+.body{
+    background-image: url(img/digital.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body2{
+    background-image: url(image/csharp_1983.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;  
+}
+
+.row{
+    margin: 0;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    margin-right: 20%;
+    margin-left: -16%;
+    background-color: antiquewhite;
+    background-position: center; 
+    border-radius: 20px 20px 20px 20px;
+    padding: 15px;
+    font-family: arial;
+}
+
+.row2{
+    margin: 0;
+    position: fixed;
+    top: 44%;
+    left: 50%;
+    margin-right: 23%;
+    margin-left: -18%;
+    background-color: antiquewhite;
+    background-position: center; 
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px;
+    font-family: arial;
+    font-size: 15pt;
+}
+
+.botton1{
+    position: fixed;
+    top: 72%;
+    left: 59%;
+    margin-right: 23%;
+    margin-left: -18%;
+}
+
+button{
+    margin-top: 0px;
+    background-color: darksalmon;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 15px;
+}
+
+.botton2{
+    position: fixed;
+    top: 72%;
+    left: 66%;
+    margin-right: 23%;
+    margin-left: -18%;
+}
+
+.botton3{
+    position: fixed;
+    top: 72%;
+    left: 73.8%;
+    margin-right: 23%;
+    margin-left: -18%;
+}
+
+.skill{
+    margin: 0;
+    position: absolute;
+    top: 33%;
+    left: 18%;
+    margin-right: 20%;
+    margin-left: -16%;
+    background-color: antiquewhite;
+    background-position: center; 
+    border-radius: 20px 20px 20px 20px;
+    padding: 15px;
+    font-family: arial;
+}
+
+.lin{
+    color: white;
+}
+
+.lin:visited{
+    color: white;
+}

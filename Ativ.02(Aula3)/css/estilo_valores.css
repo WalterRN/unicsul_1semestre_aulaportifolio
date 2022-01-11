@@ -1,0 +1,167 @@
+html,
+body{
+  background-color:  #cccccc;    
+  height: 100%; 
+  margin-top: 50px;   
+  padding: 0;
+}
+.inbox{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80%;
+}
+
+.fundo{
+  border-radius: 25px;
+  background-color: #fff;
+  flex-grow: 0.1;
+  padding: 15px;
+}
+
+.fundocabeçalho{
+  text-align: center;
+  background-color: #000;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+  width: 90%;
+  border-radius: 30px;
+  margin: auto;
+  padding: 10px;
+  font-size: 20px;
+}
+.fundolista{
+  background-color: #000;
+  color: white;
+  text-shadow: 2px 2px 5px black;
+  margin-top: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 80%;
+  justify-content: center;
+  margin: auto;
+  border-radius: 0px 0px 25px 25px;
+}
+
+.main{
+  flex-grow: 0.2; 
+}
+
+.main h1{
+  font-size: 100px;
+}
+
+.main .fundocabeçalho{
+  font-size: 30px;
+}
+
+.main ul{
+  font-size: 22px;
+}
+
+.main button{
+  font-size: 35px;
+}
+
+.Basico {
+  color: #db7617;
+  text-shadow: 3px 3px 5px black;
+}
+
+.backgroundBasico {
+  background-color: #db7617
+}
+
+.Padrao {
+  color: #263568;
+  text-shadow: 3px 3px 5px black;
+}
+
+.backgroundPadrao {
+  background-color: #263568;
+  
+}
+
+.Premium {
+  color: yellow;
+  text-shadow: 3px 3px 5px black;
+  
+  
+}
+
+.backgroundPremium {
+  background-color: yellow
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  margin: 15px 0px 3px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+  font-size: 18px;
+  list-style: none;
+}
+
+li{
+  margin-bottom: 20px;
+}
+
+button{
+  margin:20px auto;
+  border: none;
+  width: 90%;
+  background-color: black; 
+  color: white;
+  text-shadow: 2px 2px 5px black;
+  padding: 17px 38px;
+  text-align: center;
+  border-radius: 50px;  
+  font-size: 30px;
+  display: block;  
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  margin: 5px 0px 2px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+a:visited{
+  color: white;
+}
+
+
+.Padrao1 {
+  color: #5d8b08;
+  text-shadow: 3px 3px 5px black;
+}
+
+.backgroundPadrao1 {
+  background-color: #5d8b08;
+  
+}
+
+.home{
+  display: inline-block;
+  margin-top: 0;
+  padding: 5px;
+  font-size: 30px;
+  text-shadow: 2px 2px 5px black;
+}
+
+.home:hover{
+  color: rgb(202, 17, 17);
+}
+
+
+
+
